@@ -1,13 +1,13 @@
 {
   "name": "DrDonut",
   "bot-account": {
-    "username": "DrDonut",
+    "username": "Celestial699",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "play.splivegamer.xyz",
-    "port": 26235,
+    "port": 21799,
     "version": "1.20.1",
     "try-creative": false
   },
